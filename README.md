@@ -11,9 +11,9 @@
 
 <header>
     <h1>Projeto Carros</h1>
-    <img src="https://cdn.pixabay.com/photo/2019/08/04/23/28/honda-4384888_1280.jpg" alt="Honda" width="300" height="auto">
-    <img src="https://cdn.pixabay.com/photo/2021/01/16/17/36/ferrari-5922873_1280.jpg" alt="Ferrari" width="300" height="auto">
-    <img src="https://cdn.pixabay.com/photo/2017/03/20/04/57/truck-2158284_1280.png" alt="img" width="300" height="auto">
+    <img src="./img/honda.jpg" alt="Honda" width="300" height="auto">
+    <img src="./img/ferrari.jpg" alt="Ferrari" width="300" height="auto">
+    <img src="./img/Lamborghini.png" alt="img" width="300" height="auto">
 </header>
 
 <details>
